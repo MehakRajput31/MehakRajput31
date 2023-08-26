@@ -1,0 +1,74 @@
+    
+    .content a {
+      float: right;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .content a:hover {
+      background-color: tomato;
+      color: white;
+    }
+    .logo p {
+      font-size: 15px;
+      font-weight: bolder;
+      float: left;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      padding-inline: 20px;
+      
+    }
+    .text {
+        background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20230616/pngtree-web-based-business-explore-online-shopping-and-e-commerce-through-3d-image_3612524.png" );
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 455px;
+        width: 1350px;
+      color: beige;
+       padding-top: 60px;
+       padding-left: 40px;
+       text-align: left;
+       font-size: 40px;}
+     .text a{
+        background-color: tomato;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block ;
+        padding: 14px 25px;
+    }
+  .types {
+    display: flex;
+  }
+  .upper {
+    margin-top: 60px;
+    padding-left: 200px;
+    text-align: justify;
+  }
+  .lower {
+    margin-top: 60px;
+    padding-left:50px;
+    
+  }
+h3 {
+ text-align: left;
+}
+
+.end {
+  margin-top: 60px;
+  margin-left: 30px;
+  border-style: solid;
+  border-color: tomato;
+   height: 300px;
+   padding-left: 10px;
+}
+
+.end h3 {
+  font-size:  20px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
